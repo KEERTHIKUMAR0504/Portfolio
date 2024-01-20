@@ -1,0 +1,18 @@
+[
+    {
+      "title": "To Do List",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a user-friendly intuitive To-Do List Application for easy task management.",
+      "skills": ["HTMl", "CSS", "React"],
+      "demo": "https://master--soft-sherbet-49067d.netlify.app",
+      "source": "https://github.com/KEERTHIKUMAR0504/To-Do-List-App"
+    },
+    {
+      "title": "Social Media",
+      "imageSrc": "projects/project.png",
+      "description": "Crafted a social media app designed for post creation, viewing, saving and deletion.",
+      "skills": ["HTMl", "CSS", "React"],
+      "demo": "https://jovial-jelly-4763f9.netlify.app",
+      "source": "https://github.com/KEERTHIKUMAR0504/social-media-post-app"
+    }
+  ]
