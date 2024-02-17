@@ -9,16 +9,16 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/about.png")}
           alt="Front-end Image"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3><br/>
+              <h3>Full-stack developer</h3><br/>
               <p>
-              As an entry-level Frontend Developer, I bring a strong foundation in HTML, CSS, and JavaScript. Eager to contribute to dynamic projects, I'm passionate about creating engaging user experiences. Committed to ongoing learning and collaboration, I'm ready to embark on the exciting journey of building innovative and visually appealing web solutions.
+                Entry-level MERN stack developer proficient in MongoDB, Express.js, React.js, and Node.js.Passionate about creating user-friendly interfaces and mastering back-end systems. Eager to collaborate and grow in the field, committed to delivering impactful digital solutions.
               </p>
             </div>
           </li>
