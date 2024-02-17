@@ -1,17 +1,25 @@
 [
     {
+      "title": "E-Commerce",
+      "imageSrc": "projects/ecommerceImg.jpg",
+      "description": "Developed full-stack e-commerce website with alomost all functionalities.",
+      "skills": ["MongoDB", "Express", "React", "NodeJS"],
+      "demo": "http://13.60.25.29/",
+      "source": "https://github.com/KeerthikumarTS/Snapkart"
+    },
+    {
       "title": "To Do List",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/todoList.png",
       "description": "Developed a user-friendly intuitive To-Do List Application for easy task management.",
-      "skills": ["HTMl", "CSS", "React"],
+      "skills": ["HTML", "CSS", "React"],
       "demo": "https://master--soft-sherbet-49067d.netlify.app",
       "source": "https://github.com/KEERTHIKUMAR0504/To-Do-List-App"
     },
     {
       "title": "Social Media",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/socialMedia.jpg",
       "description": "Crafted a social media app designed for post creation, viewing, saving and deletion.",
-      "skills": ["HTMl", "CSS", "React"],
+      "skills": ["HTML", "CSS", "React"],
       "demo": "https://jovial-jelly-4763f9.netlify.app",
       "source": "https://github.com/KEERTHIKUMAR0504/social-media-post-app"
     }
