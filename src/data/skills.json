@@ -10,14 +10,26 @@
     {
         "title": "Javascript",
         "imageSrc": "skills/Js logo.png"
-      },
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "skills/bootstrap.png"
+    },
     {
       "title": "React",
       "imageSrc": "skills/react.png"
     },
     {
-      "title": "Bootstrap",
-      "imageSrc": "skills/bootstrap.png"
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "NodeJS",
+      "imageSrc": "skills/nodejs.png"
+    },
+    {
+      "title": "ExpressJS",
+      "imageSrc": "skills/expressjs.png"
     },
     {
       "title": "GIT",
