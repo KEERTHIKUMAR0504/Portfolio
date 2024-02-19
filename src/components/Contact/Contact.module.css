@@ -25,7 +25,6 @@
 .text p {
   font-size: 30px;
   font-weight: 400;
-  letter-spacing: 2px;
 }
 
 .links {
@@ -48,7 +47,6 @@
   text-decoration: none;
   font-size: 30px;
   font-weight: 400;
-  letter-spacing: 1.5px;
 }
 
 @media screen and (max-width: 830px) {
@@ -65,7 +63,10 @@
 
   .links {
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
+  }
+
+  .link a {
+    font-size: 20px;
   }
 }
