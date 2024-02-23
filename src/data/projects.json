@@ -8,6 +8,14 @@
       "source": "https://github.com/KeerthikumarTS/Snapkart"
     },
     {
+      "title": "Pettycash Manager",
+      "imageSrc": "projects/pettycashImg.jpg",
+      "description": "Built a Petty Cash Manager for efficient expense and income tracking.",
+      "skills": ["MongoDB", "Express", "React", "NodeJS"],
+      "demo": "https://snazzy-lamington-814589.netlify.app/login",
+      "source": "https://github.com/KeerthikumarTS/Pettycash-manager-frontend"
+    },
+    {
       "title": "To Do List",
       "imageSrc": "projects/todoList.png",
       "description": "Developed a user-friendly intuitive To-Do List Application for easy task management.",

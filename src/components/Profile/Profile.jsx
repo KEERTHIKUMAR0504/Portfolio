@@ -1,5 +1,5 @@
 import React from "react";
-import {AiOutlineGithub, AiOutlineInstagram, AiOutlineLinkedin} from 'react-icons/ai'
+import {AiOutlineGithub, AiOutlineLinkedin} from 'react-icons/ai'
 
 import styles from "./Profile.module.css";
 import { getImageUrl } from "../../utils";
